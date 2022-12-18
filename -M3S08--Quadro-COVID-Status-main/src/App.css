@@ -1,0 +1,46 @@
+.space{
+
+  background-color: rgb(232, 220, 220);
+  padding: 4rem;
+
+}
+
+.items{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+
+  display: flex;
+  
+  box-shadow: 10px 30px 10px gray;
+  flex-direction: column;
+  max-width: 200px;
+  padding: 2rem;
+  background-color: rgb(90, 97, 105);
+  border-radius: 25px;
+  
+  margin-left: 10px;
+  margin: 10px;
+  
+
+}
+
+h1{
+  color: rgb(86, 86, 87);
+}
+
+h2{
+
+  color:rgb(243, 206, 206)
+
+}
+
+h3{
+
+  text-align: center;
+  line-height: 0;
+  color:rgb(208, 228, 241);
+
+}
